@@ -1,11 +1,13 @@
 # data_structures
 
 //Overview of the project
+
 This project focuses on implementing and exploring key data structures in computer science, showcasing their functionality, use cases,                                        
 and practical applications. Developed in Python, the project demonstrates how these structures handle various operations efficiently,                                           providing both theoretical and hands-on insights.
 
 
 //Data Structures and Their Operations
+
 1. AVL Tree
 A self-balancing binary search tree where the height difference between left and right subtrees of any node is at most one.                                                   This ensures optimal performance for insertion, deletion, and search operations with a time complexity of 
 𝑂(log⁡𝑛).
@@ -27,6 +29,7 @@ A binary tree-based structure where the value of each parent node is greater tha
 
 
 //Key features
+
 ָָָ* Each data structure is implemented as a Python class, encapsulating its properties and methods.
 * The notebook provides examples of how to use these structures for various operations.
 * Designed to provide an interactive and educational experience for understanding the functionality and efficiency of these foundational structures.
