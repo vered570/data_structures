@@ -42,3 +42,8 @@ A hierarchical data structure where each node has at most two children. The left
 //Link to the colab
 
 https://colab.research.google.com/drive/1jL5_3KSQUuYj6VNgZjO9xPjj_PBmds1t?usp=sharing
+
+
+//Link to a video with running examples
+
+https://drive.google.com/drive/folders/1fbgeqyJdjscwBRWA9Nf8HRupmuDvzWdQ
